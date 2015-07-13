@@ -1,0 +1,22 @@
+{
+  "name": "downloadfontsfromstylesheets",
+  "version": "1.0.0",
+  "description": "Reads stylesheets and downloads all fonts found",
+  "main": "urlReader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippeRoy/DownloadFontsFromStylesheets.git"
+  },
+  "author": "Philippe Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhilippeRoy/DownloadFontsFromStylesheets/issues"
+  },
+  "homepage": "https://github.com/PhilippeRoy/DownloadFontsFromStylesheets#readme",
+  "dependencies": {
+    "line-by-line": "^0.1.3"
+  }
+}
